@@ -8,7 +8,8 @@
   "expiryDate": "2025-04-21",
   "hasPassword": true,
   "password": "122",
-  "downloadCount": 0,
+  "downloadCount": 1,
   "maxDownloads": 3,
-  "url": "https://raw.githubusercontent.com/cpmmobi/apkdownload/main/apks/1744615159587_app-debug-androidTest.apk"
+  "url": "https://raw.githubusercontent.com/cpmmobi/apkdownload/main/apks/1744615159587_app-debug-androidTest.apk",
+  "_metaFileName": "1744615159587_app-debug-androidTest.apk.json"
 }
